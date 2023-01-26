@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manfred-Loe
 - 👀 I’m interested in Linux, C#, Python, backend design, and some lightweight front end design.
 - 🌱 I’m currently learning Blazor / MudBlazor
-- 💞️ I’m looking to collaborate on webprojects utilizing Blazor or Mudblazor.
+- 💞️ I’m looking to collaborate on webprojects utilizing Blazor or Mudblazor, C#, and Node.js.
 - 📫 How to reach me email: mgloeiii@gmail.com
 
 <!---
