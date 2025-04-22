@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Olivia-Loe
-- 👀 I’m interested in Linux, C#, Python, backend design, and some lightweight front end design.
-- 🌱 I’m currently learning Blazor / MudBlazor
-- 💞️ I’m looking to collaborate on webprojects utilizing Blazor or Mudblazor, C#, and Node.js.
+- 👀 I’m interested in Linux, C#, Rust, front and backend design. and game design in general!
 - 📫 How to reach me email: olivia@livloe.com
